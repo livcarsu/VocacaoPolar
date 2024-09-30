@@ -910,15 +910,15 @@ height: 300px;
 
 .brow{
     position: fixed;
-    bottom: 143vw; /* Adjust positioning for responsiveness */
+    bottom: 142vw; /* Adjust positioning for responsiveness */
     right: 43vw;
     z-index: 1;
 }
 
 .browIMG {
     position: fixed;
-    bottom: 19vw; /* Adjust positioning for responsiveness */
-    right: 40vw;
+    bottom: 17vw; /* Adjust positioning for responsiveness */
+    right: 74vh;
 }
 
 
