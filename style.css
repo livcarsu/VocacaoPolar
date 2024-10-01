@@ -9,6 +9,11 @@
     font-family: "Poppins", sans-serif;     
 }  
 
+.strongDes{
+    font-weight: bold;
+    font-size: 18px;
+}
+
 body {
     background-color: #f9f3e8;
     display: flex;
